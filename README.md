@@ -34,4 +34,4 @@ Feel free to explore each week's folder for notes and exercises.
 ---
 
 ## 📄 License
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details..
